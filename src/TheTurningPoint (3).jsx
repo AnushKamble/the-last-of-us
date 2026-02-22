@@ -1409,11 +1409,10 @@ function LandingPage({ onLogin }) {
           <h1 style={{ fontFamily:"'Cinzel Decorative',serif", fontWeight:900, fontSize:"clamp(36px,8.5vw,100px)", letterSpacing:"0.06em", lineHeight:0.94, color:"#C8350A", margin:"0 0 10px",
             textShadow:"0 0 40px rgba(200,50,10,0.55),0 0 100px rgba(150,20,5,0.25),0 6px 30px rgba(0,0,0,0.98)",
             animation:"fadeUp 1.4s cubic-bezier(0.16,1,0.3,1) 0.6s both, flicker 12s linear 3s infinite" }}>
-            THE<br /><span style={{ color:"#E8C49A", textShadow:"0 0 60px rgba(232,196,154,0.08),0 0 2px rgba(0,0,0,1)" }}>TURNING</span><br />POINT
+            THE<br /><span style={{ color:"#E8C49A", textShadow:"0 0 60px rgba(232,196,154,0.08),0 0 2px rgba(0,0,0,1)" }}>CORDYCEPS</span><br />ARCHIVE
           </h1>
 
           <div style={{ width:"50%", maxWidth:280, height:1, background:"linear-gradient(90deg,transparent,rgba(160,30,8,0.55),transparent)", margin:"28px auto 14px", animation:"fadeIn 1s ease 1.9s both" }}/>
-          <div style={{ fontFamily:"'Cinzel',serif", fontSize:"clamp(11px,1.4vw,15px)", color:"rgba(180,80,30,0.65)", letterSpacing:7, marginBottom:20, animation:"fadeIn 1s ease 2.1s both", fontWeight:600 }}>THE CORDYCEPS ARCHIVE</div>
 
           {/* Handwritten-style warning tape */}
           <div style={{ display:"inline-block", padding:"6px 20px", background:"rgba(80,12,0,0.5)", border:"1px solid rgba(160,30,10,0.35)", marginBottom:20, animation:"fadeIn 1s ease 2.0s both" }}>
